@@ -21,9 +21,9 @@ E.g. Stadium_*_9: this means Stadium is the last path to destination and its dis
 
 When the user runs the program, the route finding program “form” will be displayed. First, select the path of the file that contains the state space and enter the destination place in the text box.
 The steps are:  
-	Click on “…” to select the file location, then
-	Enter the destination place, in the text box provided.
-	Click on “Go” button or press Enter/ Return key to run the program. 
+* Click on “…” to select the file location, then
+* Enter the destination place, in the text box provided.
+* Click on “Go” button or press Enter/ Return key to run the program. 
 
 The system automatically performs the following task:
 
