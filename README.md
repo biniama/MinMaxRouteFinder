@@ -5,11 +5,10 @@ The MiniMax algorithm is especially known and applicable for calculating the bes
 
 ![Map](https://cloud.githubusercontent.com/assets/5813167/17465679/f5d37744-5cfe-11e6-8b98-ab7f8b913bce.png)
 
-Here, we will try to show how MiniMax can be used to solve a route finding problem, by making one (the customer / passenger / fare)  route selector to select the minimum distance route and the other one (the driver of the taxi) to select the maximum distance route from the goal or destination place, alternatively (max, min). 
-![Example of the distance from source to destination] (https://cloud.githubusercontent.com/assets/5813167/17465711/adf4fa00-5cff-11e6-83e4-31ff824574a0.png)
+Here, we will try to show how MiniMax can be used to solve a route finding problem, by making one (the customer / passenger / fare)  route selector to select the minimum distance route and the other one (the driver of the taxi) to select the maximum distance route from the goal or destination place, alternatively (max, min). [Example of the distance from source to destination](https://cloud.githubusercontent.com/assets/5813167/17465711/adf4fa00-5cff-11e6-83e4-31ff824574a0.png)
 
 The data input to the system is file-based. The following data is stored in a file called “ourRoutes.txt”.
-![ourRoutes.txt looks like this] (https://cloud.githubusercontent.com/assets/5813167/17465735/37b5f29e-5d00-11e6-8b50-deb5e90107df.png)
+[ourRoutes.txt looks like this](https://cloud.githubusercontent.com/assets/5813167/17465735/37b5f29e-5d00-11e6-8b50-deb5e90107df.png)
 
 The First thing a user should do when using this Route Finding Program using Min-Max algorithm is to prepare the map, the format of the map should be similar to the above format. 
 
